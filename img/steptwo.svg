@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.965" height="42" viewBox="0 0 28.965 42">
+    <defs>
+        <style>
+            .cls-1,.cls-4{fill:none}.cls-1{stroke:#2b3f64}.cls-2{fill:#2b3f64}.cls-3{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_313" data-name="Group 313" transform="translate(-33.5 -983.5)">
+        <g id="Rectangle_10" class="cls-1" data-name="Rectangle 10" transform="rotate(-90 529.5 496)">
+            <rect width="42" height="28.965" class="cls-3" rx="3"/>
+            <rect width="41" height="27.965" x=".5" y=".5" class="cls-4" rx="2.5"/>
+        </g>
+        <rect id="Rectangle_13" width="10.138" height="1.448" class="cls-2" data-name="Rectangle 13" rx=".724" transform="translate(42.914 987.121)"/>
+        <rect id="Rectangle_14" width="10.138" height="4.345" class="cls-2" data-name="Rectangle 14" rx="2" transform="translate(42.914 1017.534)"/>
+    </g>
+</svg>

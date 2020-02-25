@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.965" height="42" viewBox="0 0 28.965 42">
+    <defs>
+        <style>
+            .cls-1,.cls-6{fill:none}.cls-1{stroke:#2b3f64}.cls-2{fill:#2b3f64}.cls-3{fill:#a3acbc}.cls-4{fill:#e92c4b}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_316" data-name="Group 316" transform="translate(-33.5 -983.5)">
+        <g id="Rectangle_10" class="cls-1" data-name="Rectangle 10" transform="rotate(-90 529.5 496)">
+            <rect width="42" height="28.965" class="cls-5" rx="3"/>
+            <rect width="41" height="27.965" x=".5" y=".5" class="cls-6" rx="2.5"/>
+        </g>
+        <rect id="Rectangle_14" width="10.138" height="4.345" class="cls-2" data-name="Rectangle 14" rx="2" transform="translate(42.914 1017.534)"/>
+        <rect id="Rectangle_15" width="15.931" height="7.241" class="cls-3" data-name="Rectangle 15" rx="1" transform="translate(37.121 991.466)"/>
+        <rect id="Rectangle_16" width="15.931" height="7.241" class="cls-4" data-name="Rectangle 16" rx="1" transform="translate(42.914 1001.603)"/>
+        <rect id="Rectangle_17" width="10.138" height="1.448" class="cls-2" data-name="Rectangle 17" rx=".724" transform="translate(42.914 985.672)"/>
+    </g>
+</svg>

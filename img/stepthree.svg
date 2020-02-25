@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.413" height="39.55" viewBox="0 0 43.413 39.55">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-4,.cls-6{fill:none}.cls-1{stroke:#2b3f64}.cls-2{fill:#e92c4b}.cls-3,.cls-4{stroke:#fff;stroke-width:6px;stroke-linecap:round;stroke-linejoin:round}.cls-4{stroke:#e92c4b;stroke-width:3px}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_317" data-name="Group 317" transform="translate(-29 -1031.379)">
+        <g id="Group_298" data-name="Group 298" transform="translate(29 1035.621)">
+            <g id="Group_296" data-name="Group 296" transform="translate(0 6.343)">
+                <g id="Rectangle_8" class="cls-1" data-name="Rectangle 8">
+                    <rect width="42" height="28.966" class="cls-5" rx="3"/>
+                    <rect width="41" height="27.966" x=".5" y=".5" class="cls-6" rx="2.5"/>
+                </g>
+                <rect id="Rectangle_9" width="24.621" height="3.207" class="cls-2" data-name="Rectangle 9" rx="1.603" transform="translate(5.345 20.448)"/>
+            </g>
+            <g id="Group_297" data-name="Group 297" transform="translate(20.08)">
+                <path id="Path_2646" d="M33.239 1050.721L39.4 1056l12.935-12.481" class="cls-3" data-name="Path 2646" transform="translate(-33.239 -1043.519)"/>
+                <path id="Path_2645" d="M33.239 1050.721L39.4 1056l12.935-12.481" class="cls-4" data-name="Path 2645" transform="translate(-33.239 -1043.519)"/>
+            </g>
+        </g>
+    </g>
+</svg>

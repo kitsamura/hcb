@@ -1,0 +1,177 @@
+/* стили модалки */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #2b3f64;
+}
+
+.modalFlex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding-top: 134px;
+}
+
+.modalBlock {
+    padding-top: 72px;
+    background: #ffffff;
+    position: relative;
+    border-radius: 12px;
+}
+
+.modalBlock h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 33px;
+    text-align: left;
+    color: #343434;
+    margin-bottom: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.modalBlock input {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    width: 356px;
+    text-decoration: none;
+    padding: 12px 24px;
+    border: 1px solid #a3acbc;
+    border-radius: 5px;
+    margin-bottom: 24px;
+    color: #a3acbc;
+}
+.modalBlock input:focus {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    width: 356px;
+    text-decoration: none;
+    padding: 12px 24px;
+    border: 1px solid #2b3f64;
+    border-radius: 5px;
+    margin-bottom: 24px;
+    color: #2b3f64;
+}
+
+.name {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.phoneNumber {
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.agreement input {
+    margin-right: 14px;
+    text-decoration: none;
+    height: 20px;
+    width: 20px;
+
+}
+
+.agreement {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: left;
+    color: #343434;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 42px;
+}
+
+.agreement a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 17px;
+    color: #2b3f64;
+}
+
+.modalBuy {
+    padding: 35px 32px 32px 32px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    position: relative;
+    z-index: 999;
+}
+
+.modalBuy p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: left;
+    color: #8e8e8e;
+}
+
+.modalTextBuy {
+    padding-top: 10px;
+}
+
+.modalTextBuy span img {
+    margin-top: -3px;
+}
+
+.modalCost {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 14px;
+    font-weight: lighter;
+    text-align: right;
+    color: #2b3f64;
+}
+
+.modalButtonBuy {
+    background: #e92c4b;
+    border-radius: 24px;
+    padding: 13px 48px;
+    margin-left: 24px;
+}
+
+.modalButtonBuy a {
+    text-decoration: none;
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.modalBuy::before {
+    content: "";
+    position: absolute;
+    background: #ffffff;
+    width: 420px;
+    height: 10px;
+    top: -10px;
+    right: 0;
+}
+
+.psevdoModal {
+    position: relative;
+}
+
+.psevdoModal::after {
+    content: "";
+    position: absolute;
+    background: #f9f9f9;
+    width: 420px;
+    height: 115px;
+    border-radius: 12px;
+    bottom: 0;
+    right: 510px;
+    z-index: 0;
+}
+
+.close img {
+    position: absolute;
+    top: 39px;
+    right: 32px;
+}

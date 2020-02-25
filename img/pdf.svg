@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#2b3f64;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}.cls-3,.cls-4{fill:#e92c4b}.cls-4{font-size:14px;    font-family: 'Open Sans', sans-serif;
+;font-weight:700;letter-spacing:.016em}
+        </style>
+    </defs>
+    <g id="Group_292" data-name="Group 292" transform="translate(-284 -1909)">
+        <path id="Rectangle_17" d="M0 0h96v96H0z" class="cls-1" data-name="Rectangle 17" transform="translate(284 1909)"/>
+        <path id="Path_751" d="M356 1396c-1.484-.127-48 0-48 0v68h48v-44.057" class="cls-2" data-name="Path 751" transform="translate(0 528.057)"/>
+        <rect id="Rectangle_21" width="24" height="6" class="cls-3" data-name="Rectangle 21" rx="3" transform="translate(316 1936)"/>
+        <rect id="Rectangle_22" width="32" height="4" class="cls-3" data-name="Rectangle 22" rx="2" transform="translate(316 1969)"/>
+        <rect id="Rectangle_24" width="16" height="4" class="cls-3" data-name="Rectangle 24" rx="2" transform="translate(316 1976)"/>
+        <text id="PDF" class="cls-4" transform="translate(316 1947)">
+            <tspan x="2.357" y="15">PDF</tspan>
+        </text>
+    </g>
+</svg>
